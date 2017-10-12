@@ -16,6 +16,7 @@
     "url": "http://bost.ocks.org/mike"
   },
   "main": "build/d3-request.node.js",
+  "browser": "build/d3-request.js",
   "unpkg": "build/d3-request.js",
   "jsdelivr": "build/d3-request.js",
   "module": "index",
